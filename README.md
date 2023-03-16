@@ -38,3 +38,5 @@ I am using this Git repository to practice pushing a locally created repository 
 9. Write a description telling which changes you have made and why you have decided to make those changes.
 10. (Optional) Go to Commits page and use the plus (+) sign that appears on the lines to add comments about those lines.
 11. Press the button labeled "Merge pull request".
+12. After merging is done, go to terminal page and enter "git pull origin main" command to pull main branch from your remote repository on GitHub and update your main branch in your local repository.
+13. Since we no longer need the branch that has been merged to main branch, write "git branch -d [merged branch name]" to delete your branch that has been merged to the main branch.
