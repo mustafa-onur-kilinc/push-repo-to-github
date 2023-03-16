@@ -27,4 +27,8 @@ I am using this Git repository to practice pushing a locally created repository 
 
 ## Steps to Pull a Branch
 
-1. 
+1. Stage the changes you have made using "git add [file to stage]" command.
+2. Commit your changes using "git commit -m "[your description]" -m "[your detailed extra description]"" command.
+3. If you want to locally merge your branch to your main branch, go to step 4. If you want to push your branch to GitHub and merge your branch to main branch there, go to step 5.
+4. Switch to main branch using "git checkout main" command and enter "git merge [branch to be merged]" command to merge the branch to main branch locally.
+5. Enter "git push origin [branch name]" command to the terminal to push your local branch to a GitHub branch of the same name.
