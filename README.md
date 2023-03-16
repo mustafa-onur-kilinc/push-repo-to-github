@@ -1,6 +1,6 @@
 # Demo Repository-2
 
-I am using this Git repository to practice pushing a locally created repository to GitHub.
+I am using this Git repository to practice pushing a locally created repository to GitHub and branching.
 
 ## Steps to Push a Local Repository to a GitHub Repository
 
