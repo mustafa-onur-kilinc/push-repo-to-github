@@ -37,3 +37,4 @@ I am using this Git repository to practice pushing a locally created repository 
 8. Check what is the base branch and what is the compare branch. The branch in the compare part will be merged into the branch in the base part.
 9. Write a description telling which changes you have made and why you have decided to make those changes.
 10. (Optional) Go to Commits page and use the plus (+) sign that appears on the lines to add comments about those lines.
+11. Press the button labeled "Merge pull request".
