@@ -24,3 +24,7 @@ I am using this Git repository to practice pushing a locally created repository 
 3. Enter "git checkout -b [new branch name]" command at terminal to create a new branch named [new branch name].
 4. Type "git branch" command to the terminal page and press Enter to check if the new branch has been created successfully.
 5. Write "git checkout [branch name]" command at terminal to go to the branch named [branch name].
+
+## Steps to Pull a Branch
+
+1. 
