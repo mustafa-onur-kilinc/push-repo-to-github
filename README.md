@@ -2,6 +2,10 @@
 
 I am using this Git repository to practice pushing a locally created repository to GitHub and branching.
 
+## Resources Used
+
+1. Gwen Faraday 2020, Git and GitHub for Beginners - Crash Course, freeCodeCamp.org, accessed 16 March 2023, <https://www.youtube.com/watch?v=RGOj5yH7evk>
+
 ## Steps to Push a Local Repository to a GitHub Repository
 
 1. Create a directory/folder in your computer.
