@@ -19,7 +19,7 @@ I am using this Git repository to practice pushing a locally created repository 
 9. Write "git status" command to the terminal page and press Enter to check which files should be staged for commit.
 10. Enter "git add [filename] [filename] [...]" or "git add ." command to the terminal page to stage which files will have their changes committed to Git.
 11. Type "git commit -m [your description title] -m [your extra description]" command to the terminal page and press Enter to commit the changes you have made and staged to your computer.
-12. Enter "git push origin [branch name]" (if no branch has been defined in GitHub repository, you can write master for branch name) command to the terminal page to push your committed changes in your local repository to your GitHub repository.
+12. Enter "git push -u origin [branch name]" (if no branch has been defined in GitHub repository, you can write main for branch name) command to the terminal page to push your committed changes in your local repository to your GitHub repository.
 
 ## Steps to Create a New Branch in a GitHub Repository
 
