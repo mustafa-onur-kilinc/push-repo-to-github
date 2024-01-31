@@ -1,4 +1,4 @@
-# Demo Repository-2
+# Pushing Repositories to GitHub
 
 I am using this Git repository to practice pushing a locally created repository to GitHub and branching.
 
